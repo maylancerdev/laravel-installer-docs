@@ -1,3 +1,8 @@
+---
+title: "Buttons"
+weight: 2
+---
+
 # Buttons
 
 Button components with built-in loading states.

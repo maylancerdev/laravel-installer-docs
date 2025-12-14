@@ -1,3 +1,8 @@
+---
+title: "Step Lifecycle"
+weight: 3
+---
+
 # Step Lifecycle
 
 Understanding how and when your step methods are called.

@@ -1,3 +1,8 @@
+---
+title: "Helper Classes"
+weight: 2
+---
+
 # Helper Classes
 
 Four utility classes for working with installer configuration, migrations, validation, and installation management.

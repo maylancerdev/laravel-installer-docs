@@ -1,3 +1,8 @@
+---
+title: "Installation"
+weight: 1
+---
+
 # Installation
 
 Add the installer to your Laravel app in five minutes.

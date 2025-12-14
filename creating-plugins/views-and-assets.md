@@ -1,3 +1,8 @@
+---
+title: "Views and Assets"
+weight: 4
+---
+
 # Views and Assets
 
 Customize installer appearance from your plugin.

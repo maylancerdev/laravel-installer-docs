@@ -1,3 +1,8 @@
+---
+title: "Custom Validation"
+weight: 2
+---
+
 # Custom Validation Examples
 
 Advanced validation patterns for installer steps.

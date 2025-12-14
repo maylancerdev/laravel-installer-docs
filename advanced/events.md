@@ -1,3 +1,8 @@
+---
+title: "Events System"
+weight: 3
+---
+
 # Events System
 
 The installer fires events during the installation process. Listen to these events to add custom functionality.

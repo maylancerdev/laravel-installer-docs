@@ -1,3 +1,8 @@
+---
+title: "Packages Index"
+weight: 1
+---
+
 # Official Packages
 
 Add-on packages that extend the installer with additional steps.

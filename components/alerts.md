@@ -1,3 +1,8 @@
+---
+title: "Alerts"
+weight: 3
+---
+
 # Alerts
 
 Alert components for success, error, warning, and info messages.

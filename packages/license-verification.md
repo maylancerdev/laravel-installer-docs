@@ -1,3 +1,8 @@
+---
+title: "License Verification"
+weight: 3
+---
+
 # License Verification
 
 **Package:** `olakunlevpn/laravel-installer-license`

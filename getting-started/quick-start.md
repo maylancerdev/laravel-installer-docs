@@ -1,3 +1,8 @@
+---
+title: "Quick Start"
+weight: 2
+---
+
 # Quick Start
 
 This guide walks you through a complete installation in about two minutes.

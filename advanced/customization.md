@@ -1,3 +1,8 @@
+---
+title: "Customization"
+weight: 4
+---
+
 # Customization
 
 Customize the installer's appearance, branding, and behavior.

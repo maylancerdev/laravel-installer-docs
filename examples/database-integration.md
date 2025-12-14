@@ -1,3 +1,8 @@
+---
+title: "Database Integration"
+weight: 3
+---
+
 # Database Integration Examples
 
 Working with the database during installation.

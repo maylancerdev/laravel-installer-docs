@@ -1,3 +1,8 @@
+---
+title: "Welcome Package"
+weight: 2
+---
+
 # Welcome Package
 
 **Package:** `olakunlevpn/laravel-installer-welcome`

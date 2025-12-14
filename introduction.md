@@ -1,3 +1,8 @@
+---
+title: "Introduction"
+weight: 1
+---
+
 # Introduction
 
 Laravel Installer is a plugin-based installation wizard for Laravel applications. It handles first-time setup through an interactive, step-by-step interface.

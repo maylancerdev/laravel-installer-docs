@@ -1,3 +1,8 @@
+---
+title: "Best Practices"
+weight: 5
+---
+
 # Best Practices
 
 Guidelines for building reliable, maintainable installer plugins.

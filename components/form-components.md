@@ -1,3 +1,8 @@
+---
+title: "Form Components"
+weight: 1
+---
+
 # Form Components
 
 All form components live under the `installer` namespace and support dark mode automatically.

@@ -1,3 +1,8 @@
+---
+title: "Requirements"
+weight: 3
+---
+
 # Requirements
 
 System prerequisites for the installer.

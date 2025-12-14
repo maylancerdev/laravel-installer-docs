@@ -1,3 +1,8 @@
+---
+title: "Plugin Structure"
+weight: 1
+---
+
 # Plugin Structure
 
 Installer plugins are Laravel packages that add custom steps to the installation wizard.

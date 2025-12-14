@@ -1,3 +1,8 @@
+---
+title: "Account Setup"
+weight: 4
+---
+
 # Account Setup
 
 **Package:** `olakunlevpn/laravel-installer-account`

@@ -1,3 +1,8 @@
+---
+title: "Layout Components"
+weight: 4
+---
+
 # Layout Components
 
 Helper components for structuring your installer steps.

@@ -1,3 +1,8 @@
+---
+title: "Complete Plugin Example"
+weight: 1
+---
+
 # Complete Plugin Example
 
 A full working example of an installer plugin that verifies a license key via API.

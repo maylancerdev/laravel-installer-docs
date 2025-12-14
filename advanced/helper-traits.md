@@ -1,3 +1,8 @@
+---
+title: "Helper Traits"
+weight: 1
+---
+
 # Helper Traits
 
 Four traits provide common functionality for step classes. Use them instead of writing your own implementations.

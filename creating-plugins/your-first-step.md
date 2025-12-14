@@ -1,3 +1,8 @@
+---
+title: "Your First Step"
+weight: 2
+---
+
 # Your First Step
 
 Now that you understand the plugin structure, let's create a working step.
